@@ -1,0 +1,3883 @@
+proxies:
+  - name: 🇯🇵 日本 大阪 大阪 1
+    type: socks5
+    server: 38.47.96.6
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 2
+    type: socks5
+    server: 38.47.96.5
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 3
+    type: socks5
+    server: 38.47.97.2
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 4
+    type: socks5
+    server: 38.47.99.2
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 5
+    type: socks5
+    server: 38.47.99.9
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 6
+    type: socks5
+    server: 38.47.96.9
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 7
+    type: socks5
+    server: 38.47.97.4
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 1
+    type: socks5
+    server: 38.47.127.6
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 2
+    type: socks5
+    server: 38.47.127.9
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 3
+    type: socks5
+    server: 38.47.127.8
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 4
+    type: socks5
+    server: 38.47.127.2
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 5
+    type: socks5
+    server: 38.47.127.7
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 6
+    type: socks5
+    server: 38.47.104.3
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 7
+    type: socks5
+    server: 38.47.104.8
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 8
+    type: socks5
+    server: 38.47.111.2
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 9
+    type: socks5
+    server: 38.47.111.4
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 10
+    type: socks5
+    server: 38.47.96.73
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 11
+    type: socks5
+    server: 38.47.99.79
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 12
+    type: socks5
+    server: 38.47.99.75
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 13
+    type: socks5
+    server: 38.47.96.70
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 14
+    type: socks5
+    server: 38.47.99.78
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 15
+    type: socks5
+    server: 38.47.99.72
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 16
+    type: socks5
+    server: 38.47.99.80
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 17
+    type: socks5
+    server: 38.47.99.84
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 18
+    type: socks5
+    server: 38.47.99.85
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 19
+    type: socks5
+    server: 38.47.96.50
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 20
+    type: socks5
+    server: 38.47.99.37
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 21
+    type: socks5
+    server: 38.47.97.32
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 22
+    type: socks5
+    server: 38.47.97.35
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 23
+    type: socks5
+    server: 38.47.99.38
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 24
+    type: socks5
+    server: 38.47.99.61
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 25
+    type: socks5
+    server: 38.47.99.69
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 26
+    type: socks5
+    server: 38.47.96.69
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 27
+    type: socks5
+    server: 38.47.97.68
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 28
+    type: socks5
+    server: 38.47.96.62
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 29
+    type: socks5
+    server: 38.47.99.66
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 30
+    type: socks5
+    server: 38.47.99.65
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 31
+    type: socks5
+    server: 38.47.99.64
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 32
+    type: socks5
+    server: 38.47.99.62
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 33
+    type: socks5
+    server: 38.47.97.60
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 34
+    type: socks5
+    server: 38.47.99.63
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 8
+    type: socks5
+    server: 38.47.125.5
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 35
+    type: socks5
+    server: 38.47.99.93
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 36
+    type: socks5
+    server: 38.47.96.98
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 37
+    type: socks5
+    server: 38.47.96.94
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 38
+    type: socks5
+    server: 38.47.97.92
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 39
+    type: socks5
+    server: 38.47.99.90
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 40
+    type: socks5
+    server: 38.47.96.95
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 41
+    type: socks5
+    server: 38.47.96.99
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 42
+    type: socks5
+    server: 38.47.96.96
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 43
+    type: socks5
+    server: 38.47.99.98
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 44
+    type: socks5
+    server: 38.47.97.25
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 45
+    type: socks5
+    server: 38.47.99.20
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 46
+    type: socks5
+    server: 38.47.99.25
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 47
+    type: socks5
+    server: 38.47.96.26
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 48
+    type: socks5
+    server: 38.47.97.24
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 49
+    type: socks5
+    server: 38.47.99.29
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 50
+    type: socks5
+    server: 38.47.99.22
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 51
+    type: socks5
+    server: 38.47.96.29
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 52
+    type: socks5
+    server: 38.47.96.21
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 53
+    type: socks5
+    server: 38.47.99.86
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 54
+    type: socks5
+    server: 38.47.99.88
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 55
+    type: socks5
+    server: 38.47.99.82
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 56
+    type: socks5
+    server: 38.47.97.80
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 57
+    type: socks5
+    server: 38.47.96.82
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 58
+    type: socks5
+    server: 38.47.99.81
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 59
+    type: socks5
+    server: 38.47.97.81
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 60
+    type: socks5
+    server: 38.47.96.88
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 61
+    type: socks5
+    server: 38.47.96.83
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 62
+    type: socks5
+    server: 38.47.96.14
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 63
+    type: socks5
+    server: 38.47.96.16
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 64
+    type: socks5
+    server: 38.47.99.30
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 65
+    type: socks5
+    server: 38.47.96.39
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 66
+    type: socks5
+    server: 38.47.96.36
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 67
+    type: socks5
+    server: 38.47.96.34
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 68
+    type: socks5
+    server: 38.47.96.37
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 69
+    type: socks5
+    server: 38.47.96.31
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 70
+    type: socks5
+    server: 38.47.97.31
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 71
+    type: socks5
+    server: 38.47.96.33
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 72
+    type: socks5
+    server: 38.47.99.39
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 73
+    type: socks5
+    server: 38.47.99.33
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 74
+    type: socks5
+    server: 38.47.99.46
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 75
+    type: socks5
+    server: 38.47.99.42
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 76
+    type: socks5
+    server: 38.47.96.48
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 77
+    type: socks5
+    server: 38.47.99.41
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 78
+    type: socks5
+    server: 38.47.99.44
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 79
+    type: socks5
+    server: 38.47.96.45
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 80
+    type: socks5
+    server: 38.47.97.40
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 81
+    type: socks5
+    server: 38.47.97.48
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 82
+    type: socks5
+    server: 38.47.96.42
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 83
+    type: socks5
+    server: 38.47.99.40
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 84
+    type: socks5
+    server: 38.47.97.46
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 85
+    type: socks5
+    server: 38.47.97.49
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 86
+    type: socks5
+    server: 38.47.110.2
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 87
+    type: socks5
+    server: 38.47.110.4
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 88
+    type: socks5
+    server: 38.47.110.6
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 89
+    type: socks5
+    server: 38.47.97.54
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 90
+    type: socks5
+    server: 38.47.97.58
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 91
+    type: socks5
+    server: 38.47.99.57
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 92
+    type: socks5
+    server: 38.47.96.56
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 93
+    type: socks5
+    server: 38.47.97.56
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 94
+    type: socks5
+    server: 38.47.99.54
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 95
+    type: socks5
+    server: 38.47.96.54
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 96
+    type: socks5
+    server: 38.47.96.59
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 97
+    type: socks5
+    server: 38.47.99.14
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 98
+    type: socks5
+    server: 38.47.99.17
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 99
+    type: socks5
+    server: 38.47.99.13
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 100
+    type: socks5
+    server: 38.47.99.18
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 101
+    type: socks5
+    server: 38.47.96.19
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 9
+    type: socks5
+    server: 38.47.105.92
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 10
+    type: socks5
+    server: 38.47.105.81
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 11
+    type: socks5
+    server: 38.47.105.49
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 12
+    type: socks5
+    server: 38.47.105.27
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 102
+    type: socks5
+    server: 38.47.96.143
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 103
+    type: socks5
+    server: 38.47.96.145
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 104
+    type: socks5
+    server: 38.47.97.147
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 105
+    type: socks5
+    server: 38.47.96.248
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 106
+    type: socks5
+    server: 38.47.99.245
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 107
+    type: socks5
+    server: 38.47.96.249
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 108
+    type: socks5
+    server: 38.47.97.223
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 109
+    type: socks5
+    server: 38.47.96.235
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 110
+    type: socks5
+    server: 38.47.97.205
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 111
+    type: socks5
+    server: 38.47.96.253
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 112
+    type: socks5
+    server: 38.47.99.206
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 113
+    type: socks5
+    server: 38.47.96.156
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 114
+    type: socks5
+    server: 38.47.99.158
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 115
+    type: socks5
+    server: 38.47.97.208
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 116
+    type: socks5
+    server: 38.47.97.235
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 117
+    type: socks5
+    server: 38.47.96.229
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 118
+    type: socks5
+    server: 38.47.99.238
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 119
+    type: socks5
+    server: 38.47.99.213
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 120
+    type: socks5
+    server: 38.47.99.204
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 121
+    type: socks5
+    server: 38.47.97.244
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 122
+    type: socks5
+    server: 38.47.96.227
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 123
+    type: socks5
+    server: 38.47.96.205
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 124
+    type: socks5
+    server: 38.47.99.205
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 13
+    type: socks5
+    server: 38.47.127.18
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 14
+    type: socks5
+    server: 38.47.127.28
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 15
+    type: socks5
+    server: 38.47.127.63
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 16
+    type: socks5
+    server: 38.47.127.16
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 125
+    type: socks5
+    server: 38.47.110.80
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 126
+    type: socks5
+    server: 38.47.110.47
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 127
+    type: socks5
+    server: 38.47.110.88
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 128
+    type: socks5
+    server: 38.47.110.57
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 129
+    type: socks5
+    server: 38.47.110.53
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 130
+    type: socks5
+    server: 38.47.110.19
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 131
+    type: socks5
+    server: 38.47.110.76
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 132
+    type: socks5
+    server: 38.47.110.44
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 133
+    type: socks5
+    server: 38.47.110.32
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 134
+    type: socks5
+    server: 38.47.110.18
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 135
+    type: socks5
+    server: 38.47.110.86
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 136
+    type: socks5
+    server: 38.47.99.187
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 137
+    type: socks5
+    server: 38.47.99.180
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 138
+    type: socks5
+    server: 38.47.96.187
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 139
+    type: socks5
+    server: 38.47.99.185
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 140
+    type: socks5
+    server: 38.47.97.188
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 141
+    type: socks5
+    server: 38.47.96.188
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 142
+    type: socks5
+    server: 38.47.96.185
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 143
+    type: socks5
+    server: 38.47.96.186
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 144
+    type: socks5
+    server: 167.88.185.6
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 145
+    type: socks5
+    server: 38.47.97.204
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 146
+    type: socks5
+    server: 38.47.99.203
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 147
+    type: socks5
+    server: 38.47.97.206
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 148
+    type: socks5
+    server: 38.47.96.118
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 149
+    type: socks5
+    server: 38.47.96.116
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 150
+    type: socks5
+    server: 38.47.97.117
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 151
+    type: socks5
+    server: 38.47.99.115
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 152
+    type: socks5
+    server: 38.47.97.118
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 17
+    type: socks5
+    server: 38.47.125.36
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 18
+    type: socks5
+    server: 38.47.125.76
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 19
+    type: socks5
+    server: 38.47.125.80
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 20
+    type: socks5
+    server: 38.47.105.65
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 21
+    type: socks5
+    server: 38.47.105.34
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 22
+    type: socks5
+    server: 38.47.105.52
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 23
+    type: socks5
+    server: 38.47.105.36
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 24
+    type: socks5
+    server: 38.47.105.59
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 25
+    type: socks5
+    server: 38.47.124.31
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 26
+    type: socks5
+    server: 38.47.104.62
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 27
+    type: socks5
+    server: 38.47.104.37
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 28
+    type: socks5
+    server: 38.47.104.96
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 153
+    type: socks5
+    server: 38.47.110.58
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 154
+    type: socks5
+    server: 38.47.110.29
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 155
+    type: socks5
+    server: 38.47.110.55
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 156
+    type: socks5
+    server: 38.47.110.38
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 157
+    type: socks5
+    server: 38.47.110.25
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 158
+    type: socks5
+    server: 38.47.110.96
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 159
+    type: socks5
+    server: 38.47.110.91
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 160
+    type: socks5
+    server: 38.47.110.46
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 161
+    type: socks5
+    server: 38.47.110.75
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 162
+    type: socks5
+    server: 38.47.110.82
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 163
+    type: socks5
+    server: 38.47.99.214
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 164
+    type: socks5
+    server: 38.47.96.216
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 165
+    type: socks5
+    server: 38.47.97.217
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 166
+    type: socks5
+    server: 38.47.97.129
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 167
+    type: socks5
+    server: 38.47.97.125
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 168
+    type: socks5
+    server: 38.47.99.124
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 169
+    type: socks5
+    server: 38.47.96.129
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 170
+    type: socks5
+    server: 38.47.96.120
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 171
+    type: socks5
+    server: 38.47.99.128
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 172
+    type: socks5
+    server: 38.47.111.60
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 173
+    type: socks5
+    server: 38.47.111.71
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 174
+    type: socks5
+    server: 38.47.111.38
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 175
+    type: socks5
+    server: 38.47.111.65
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 176
+    type: socks5
+    server: 38.47.111.46
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 177
+    type: socks5
+    server: 38.47.111.34
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 178
+    type: socks5
+    server: 38.47.111.89
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 179
+    type: socks5
+    server: 38.47.111.15
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 180
+    type: socks5
+    server: 38.47.111.62
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 181
+    type: socks5
+    server: 38.47.111.90
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 29
+    type: socks5
+    server: 38.47.105.91
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 30
+    type: socks5
+    server: 38.47.125.90
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 31
+    type: socks5
+    server: 38.47.105.94
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 32
+    type: socks5
+    server: 38.47.105.71
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 33
+    type: socks5
+    server: 38.47.105.47
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 34
+    type: socks5
+    server: 38.47.105.11
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 35
+    type: socks5
+    server: 38.47.105.99
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 36
+    type: socks5
+    server: 38.47.105.80
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 37
+    type: socks5
+    server: 38.47.105.87
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 38
+    type: socks5
+    server: 38.47.105.32
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 182
+    type: socks5
+    server: 38.47.97.133
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 183
+    type: socks5
+    server: 38.47.97.137
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 39
+    type: socks5
+    server: 38.47.126.11
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 40
+    type: socks5
+    server: 38.47.126.72
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 41
+    type: socks5
+    server: 38.47.126.39
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 42
+    type: socks5
+    server: 38.47.126.89
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 43
+    type: socks5
+    server: 38.47.126.13
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 44
+    type: socks5
+    server: 38.47.126.58
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 45
+    type: socks5
+    server: 38.47.126.87
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 46
+    type: socks5
+    server: 38.47.126.43
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 47
+    type: socks5
+    server: 38.47.126.68
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 48
+    type: socks5
+    server: 38.47.126.83
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 49
+    type: socks5
+    server: 38.47.126.50
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 184
+    type: socks5
+    server: 38.47.111.20
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 185
+    type: socks5
+    server: 38.47.111.49
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 186
+    type: socks5
+    server: 38.47.111.11
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 187
+    type: socks5
+    server: 38.47.111.28
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 188
+    type: socks5
+    server: 38.47.111.17
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 189
+    type: socks5
+    server: 38.47.111.33
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 190
+    type: socks5
+    server: 38.47.111.27
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 191
+    type: socks5
+    server: 38.47.111.58
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 192
+    type: socks5
+    server: 38.47.111.54
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 193
+    type: socks5
+    server: 38.47.111.16
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 194
+    type: socks5
+    server: 38.47.99.240
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 195
+    type: socks5
+    server: 38.47.97.248
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 196
+    type: socks5
+    server: 38.47.99.156
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 197
+    type: socks5
+    server: 38.47.97.154
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 198
+    type: socks5
+    server: 38.47.96.152
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 199
+    type: socks5
+    server: 38.47.111.50
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 200
+    type: socks5
+    server: 38.47.111.94
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 201
+    type: socks5
+    server: 38.47.111.32
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 202
+    type: socks5
+    server: 38.47.111.81
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 203
+    type: socks5
+    server: 38.47.111.84
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 204
+    type: socks5
+    server: 38.47.96.226
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 205
+    type: socks5
+    server: 38.47.99.251
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 206
+    type: socks5
+    server: 38.47.96.232
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 207
+    type: socks5
+    server: 38.47.96.234
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 208
+    type: socks5
+    server: 38.47.99.239
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 209
+    type: socks5
+    server: 38.47.99.243
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 210
+    type: socks5
+    server: 38.47.99.246
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 211
+    type: socks5
+    server: 38.47.96.219
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 212
+    type: socks5
+    server: 38.47.99.250
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 213
+    type: socks5
+    server: 38.47.96.204
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 50
+    type: socks5
+    server: 38.47.104.63
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 51
+    type: socks5
+    server: 38.47.104.93
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 52
+    type: socks5
+    server: 38.47.104.97
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 53
+    type: socks5
+    server: 38.47.104.79
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 54
+    type: socks5
+    server: 38.47.104.71
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 55
+    type: socks5
+    server: 38.47.104.74
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 56
+    type: socks5
+    server: 38.47.104.69
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 57
+    type: socks5
+    server: 38.47.104.99
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 58
+    type: socks5
+    server: 38.47.104.85
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 59
+    type: socks5
+    server: 38.47.104.72
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 214
+    type: socks5
+    server: 38.47.96.168
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 215
+    type: socks5
+    server: 38.47.96.165
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 216
+    type: socks5
+    server: 38.47.96.161
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 217
+    type: socks5
+    server: 38.47.99.160
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 218
+    type: socks5
+    server: 38.47.96.164
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 219
+    type: socks5
+    server: 38.47.99.167
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 220
+    type: socks5
+    server: 38.47.97.165
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 60
+    type: socks5
+    server: 38.47.109.97
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 61
+    type: socks5
+    server: 38.47.109.94
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 62
+    type: socks5
+    server: 38.47.109.21
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 63
+    type: socks5
+    server: 38.47.109.54
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 64
+    type: socks5
+    server: 38.47.109.44
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 221
+    type: socks5
+    server: 38.47.99.170
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 222
+    type: socks5
+    server: 38.47.97.178
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 223
+    type: socks5
+    server: 38.47.99.174
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 224
+    type: socks5
+    server: 38.47.99.179
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 225
+    type: socks5
+    server: 38.47.96.171
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 226
+    type: socks5
+    server: 38.47.97.175
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 227
+    type: socks5
+    server: 38.47.97.174
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 228
+    type: socks5
+    server: 38.47.96.179
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 229
+    type: socks5
+    server: 38.47.97.173
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 230
+    type: socks5
+    server: 38.47.96.208
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 231
+    type: socks5
+    server: 38.47.97.229
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 232
+    type: socks5
+    server: 38.47.96.230
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 233
+    type: socks5
+    server: 38.47.99.222
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 234
+    type: socks5
+    server: 38.47.99.249
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 235
+    type: socks5
+    server: 38.47.97.216
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 236
+    type: socks5
+    server: 38.47.97.218
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 237
+    type: socks5
+    server: 38.47.96.251
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 238
+    type: socks5
+    server: 38.47.97.237
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 239
+    type: socks5
+    server: 38.47.97.215
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 240
+    type: socks5
+    server: 38.47.99.103
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 241
+    type: socks5
+    server: 38.47.99.181
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 242
+    type: socks5
+    server: 38.47.99.144
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 243
+    type: socks5
+    server: 38.47.96.194
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 244
+    type: socks5
+    server: 38.47.99.194
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 245
+    type: socks5
+    server: 38.47.99.177
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 246
+    type: socks5
+    server: 38.47.99.141
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 247
+    type: socks5
+    server: 38.47.99.108
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 248
+    type: socks5
+    server: 38.47.96.101
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 249
+    type: socks5
+    server: 38.47.96.146
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 250
+    type: socks5
+    server: 38.47.97.149
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 251
+    type: socks5
+    server: 38.47.97.136
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 252
+    type: socks5
+    server: 38.47.96.133
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 253
+    type: socks5
+    server: 38.47.99.132
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 254
+    type: socks5
+    server: 38.47.97.134
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 255
+    type: socks5
+    server: 38.47.96.162
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 256
+    type: socks5
+    server: 38.47.97.141
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 257
+    type: socks5
+    server: 38.47.96.140
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 258
+    type: socks5
+    server: 38.47.96.142
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 259
+    type: socks5
+    server: 38.47.96.195
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 260
+    type: socks5
+    server: 38.47.96.191
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 261
+    type: socks5
+    server: 38.47.96.130
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 262
+    type: socks5
+    server: 38.47.99.136
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 263
+    type: socks5
+    server: 38.47.97.130
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 264
+    type: socks5
+    server: 38.47.96.139
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 265
+    type: socks5
+    server: 38.47.99.131
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 266
+    type: socks5
+    server: 38.47.96.131
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 267
+    type: socks5
+    server: 38.47.96.137
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 268
+    type: socks5
+    server: 38.47.96.196
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 269
+    type: socks5
+    server: 38.47.96.198
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 270
+    type: socks5
+    server: 38.47.99.171
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 65
+    type: socks5
+    server: 38.47.126.66
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 66
+    type: socks5
+    server: 38.47.126.15
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 67
+    type: socks5
+    server: 38.47.126.44
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 68
+    type: socks5
+    server: 38.47.126.56
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 69
+    type: socks5
+    server: 38.47.126.19
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 70
+    type: socks5
+    server: 38.47.126.64
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 71
+    type: socks5
+    server: 38.47.126.47
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 72
+    type: socks5
+    server: 38.47.126.46
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 73
+    type: socks5
+    server: 38.47.126.25
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 74
+    type: socks5
+    server: 38.47.126.55
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 271
+    type: socks5
+    server: 38.47.96.192
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 272
+    type: socks5
+    server: 38.47.97.197
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 273
+    type: socks5
+    server: 38.47.96.193
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 274
+    type: socks5
+    server: 38.47.97.108
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 275
+    type: socks5
+    server: 38.47.97.101
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 276
+    type: socks5
+    server: 38.47.96.104
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 277
+    type: socks5
+    server: 38.47.99.101
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 278
+    type: socks5
+    server: 38.47.97.104
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 279
+    type: socks5
+    server: 38.47.96.107
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 280
+    type: socks5
+    server: 38.47.96.102
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 281
+    type: socks5
+    server: 38.47.99.188
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 282
+    type: socks5
+    server: 38.47.99.104
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 283
+    type: socks5
+    server: 38.47.99.184
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 75
+    type: socks5
+    server: 38.47.127.11
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 76
+    type: socks5
+    server: 38.47.127.24
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 77
+    type: socks5
+    server: 38.47.127.81
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 78
+    type: socks5
+    server: 38.47.127.56
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 79
+    type: socks5
+    server: 38.47.127.78
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 80
+    type: socks5
+    server: 38.47.127.85
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 81
+    type: socks5
+    server: 38.47.127.99
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 82
+    type: socks5
+    server: 38.47.127.93
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 83
+    type: socks5
+    server: 38.47.127.95
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 84
+    type: socks5
+    server: 38.47.127.87
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 85
+    type: socks5
+    server: 38.47.104.31
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 86
+    type: socks5
+    server: 38.47.104.60
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 87
+    type: socks5
+    server: 38.47.104.19
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 88
+    type: socks5
+    server: 38.47.124.71
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 89
+    type: socks5
+    server: 38.47.104.12
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 90
+    type: socks5
+    server: 38.47.124.28
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 91
+    type: socks5
+    server: 38.47.124.48
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 92
+    type: socks5
+    server: 38.47.104.14
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 93
+    type: socks5
+    server: 38.47.124.43
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 94
+    type: socks5
+    server: 38.47.124.32
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 284
+    type: socks5
+    server: 167.88.185.78
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 285
+    type: socks5
+    server: 167.88.185.58
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 286
+    type: socks5
+    server: 167.88.185.98
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 287
+    type: socks5
+    server: 167.88.185.68
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 288
+    type: socks5
+    server: 167.88.185.28
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 289
+    type: socks5
+    server: 167.88.185.88
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 290
+    type: socks5
+    server: 38.47.110.170
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 291
+    type: socks5
+    server: 38.47.110.190
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 95
+    type: socks5
+    server: 38.47.127.178
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 96
+    type: socks5
+    server: 38.47.127.218
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 97
+    type: socks5
+    server: 38.47.109.157
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 98
+    type: socks5
+    server: 38.47.105.189
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 99
+    type: socks5
+    server: 38.47.105.199
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 100
+    type: socks5
+    server: 38.47.104.131
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 101
+    type: socks5
+    server: 38.47.104.111
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 102
+    type: socks5
+    server: 38.47.126.233
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 103
+    type: socks5
+    server: 38.47.127.154
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 104
+    type: socks5
+    server: 38.47.127.194
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 292
+    type: socks5
+    server: 38.47.110.119
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 293
+    type: socks5
+    server: 38.47.110.159
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 294
+    type: socks5
+    server: 38.47.111.122
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 295
+    type: socks5
+    server: 38.47.111.202
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 296
+    type: socks5
+    server: 38.47.111.182
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 297
+    type: socks5
+    server: 38.47.111.212
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 298
+    type: socks5
+    server: 38.47.111.252
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 105
+    type: socks5
+    server: 38.47.104.180
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 106
+    type: socks5
+    server: 38.47.104.150
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 299
+    type: socks5
+    server: 38.47.99.133
+    port: 49158
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 300
+    type: socks5
+    server: 167.88.185.93
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 107
+    type: socks5
+    server: 38.47.127.102
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 108
+    type: socks5
+    server: 38.47.127.172
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 109
+    type: socks5
+    server: 38.47.127.242
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 110
+    type: socks5
+    server: 38.47.104.154
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 111
+    type: socks5
+    server: 38.47.104.254
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 112
+    type: socks5
+    server: 38.47.124.124
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 301
+    type: socks5
+    server: 38.47.110.237
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 302
+    type: socks5
+    server: 38.47.110.167
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 303
+    type: socks5
+    server: 38.47.110.127
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 113
+    type: socks5
+    server: 38.47.125.243
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 114
+    type: socks5
+    server: 38.47.125.213
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 304
+    type: socks5
+    server: 38.47.111.168
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 305
+    type: socks5
+    server: 38.47.111.198
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 306
+    type: socks5
+    server: 38.47.111.158
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 307
+    type: socks5
+    server: 38.47.111.188
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 308
+    type: socks5
+    server: 38.47.111.248
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 309
+    type: socks5
+    server: 38.47.111.178
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 310
+    type: socks5
+    server: 38.47.111.238
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 311
+    type: socks5
+    server: 167.88.185.44
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 312
+    type: socks5
+    server: 167.88.185.74
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 313
+    type: socks5
+    server: 38.47.110.164
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 314
+    type: socks5
+    server: 38.47.110.224
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 315
+    type: socks5
+    server: 38.47.110.234
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 316
+    type: socks5
+    server: 38.47.110.124
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 317
+    type: socks5
+    server: 38.47.110.104
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 115
+    type: socks5
+    server: 38.47.109.103
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 318
+    type: socks5
+    server: 38.47.110.195
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 319
+    type: socks5
+    server: 38.47.111.117
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 320
+    type: socks5
+    server: 38.47.111.147
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 321
+    type: socks5
+    server: 38.47.111.107
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 116
+    type: socks5
+    server: 38.47.104.176
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 117
+    type: socks5
+    server: 38.47.104.146
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 118
+    type: socks5
+    server: 38.47.104.206
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 119
+    type: socks5
+    server: 38.47.124.226
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 120
+    type: socks5
+    server: 38.47.104.126
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 121
+    type: socks5
+    server: 38.47.124.136
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 122
+    type: socks5
+    server: 38.47.124.116
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 123
+    type: socks5
+    server: 38.47.127.157
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 124
+    type: socks5
+    server: 38.47.127.167
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 125
+    type: socks5
+    server: 38.47.127.177
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 322
+    type: socks5
+    server: 38.47.111.250
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 323
+    type: socks5
+    server: 38.47.111.220
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 324
+    type: socks5
+    server: 167.88.185.47
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 325
+    type: socks5
+    server: 167.88.185.57
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 326
+    type: socks5
+    server: 167.88.185.27
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 126
+    type: socks5
+    server: 38.47.126.160
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 127
+    type: socks5
+    server: 38.47.126.130
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 128
+    type: socks5
+    server: 38.47.126.120
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 129
+    type: socks5
+    server: 38.47.126.240
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 130
+    type: socks5
+    server: 38.47.105.105
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 131
+    type: socks5
+    server: 38.47.126.100
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 132
+    type: socks5
+    server: 38.47.127.213
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 133
+    type: socks5
+    server: 38.47.127.133
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 134
+    type: socks5
+    server: 38.47.127.183
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 135
+    type: socks5
+    server: 38.47.126.186
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 136
+    type: socks5
+    server: 38.47.126.156
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 137
+    type: socks5
+    server: 38.47.104.138
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 138
+    type: socks5
+    server: 38.47.124.178
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 139
+    type: socks5
+    server: 38.47.109.178
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 140
+    type: socks5
+    server: 38.47.126.105
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 141
+    type: socks5
+    server: 38.47.126.159
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 142
+    type: socks5
+    server: 38.47.126.219
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 143
+    type: socks5
+    server: 38.47.126.199
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 144
+    type: socks5
+    server: 38.47.126.109
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 145
+    type: socks5
+    server: 38.47.126.139
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 146
+    type: socks5
+    server: 38.47.127.196
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 147
+    type: socks5
+    server: 38.47.127.186
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 148
+    type: socks5
+    server: 38.47.127.226
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 327
+    type: socks5
+    server: 38.47.111.245
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 328
+    type: socks5
+    server: 38.47.111.205
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 329
+    type: socks5
+    server: 38.47.111.185
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 149
+    type: socks5
+    server: 38.47.109.254
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 330
+    type: socks5
+    server: 167.88.185.40
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 331
+    type: socks5
+    server: 167.88.185.50
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 332
+    type: socks5
+    server: 167.88.185.30
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 333
+    type: socks5
+    server: 167.88.185.60
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 334
+    type: socks5
+    server: 167.88.185.80
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 335
+    type: socks5
+    server: 167.88.185.26
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 336
+    type: socks5
+    server: 167.88.185.16
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 150
+    type: socks5
+    server: 38.47.126.222
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 151
+    type: socks5
+    server: 38.47.126.117
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 152
+    type: socks5
+    server: 38.47.126.157
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 153
+    type: socks5
+    server: 38.47.126.242
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 154
+    type: socks5
+    server: 38.47.126.192
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 155
+    type: socks5
+    server: 38.47.126.175
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 156
+    type: socks5
+    server: 38.47.104.187
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 337
+    type: socks5
+    server: 167.88.185.59
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 157
+    type: socks5
+    server: 38.47.105.126
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 158
+    type: socks5
+    server: 38.47.105.216
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 159
+    type: socks5
+    server: 38.47.125.226
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 160
+    type: socks5
+    server: 38.47.105.186
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 161
+    type: socks5
+    server: 38.47.125.246
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 338
+    type: socks5
+    server: 167.88.185.99
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 339
+    type: socks5
+    server: 167.88.185.29
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 340
+    type: socks5
+    server: 167.88.185.19
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 162
+    type: socks5
+    server: 38.47.127.151
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 163
+    type: socks5
+    server: 38.47.127.131
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 164
+    type: socks5
+    server: 38.47.127.251
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 165
+    type: socks5
+    server: 38.47.127.221
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 166
+    type: socks5
+    server: 38.47.127.181
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 167
+    type: socks5
+    server: 38.47.127.141
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 168
+    type: socks5
+    server: 38.47.105.204
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 169
+    type: socks5
+    server: 38.47.105.104
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 341
+    type: socks5
+    server: 38.47.110.166
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 342
+    type: socks5
+    server: 38.47.110.226
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 170
+    type: socks5
+    server: 38.47.104.117
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 171
+    type: socks5
+    server: 38.47.104.207
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 172
+    type: socks5
+    server: 38.47.124.137
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 343
+    type: socks5
+    server: 38.47.111.254
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 344
+    type: socks5
+    server: 38.47.111.164
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 345
+    type: socks5
+    server: 38.47.111.154
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 346
+    type: socks5
+    server: 38.47.111.134
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 347
+    type: socks5
+    server: 38.47.111.224
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 348
+    type: socks5
+    server: 38.47.111.234
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 349
+    type: socks5
+    server: 38.47.111.114
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 350
+    type: socks5
+    server: 38.47.110.122
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 351
+    type: socks5
+    server: 38.47.110.212
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 352
+    type: socks5
+    server: 38.47.110.141
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 353
+    type: socks5
+    server: 38.47.110.131
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 354
+    type: socks5
+    server: 38.47.110.211
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 355
+    type: socks5
+    server: 38.47.110.121
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 356
+    type: socks5
+    server: 38.47.110.241
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 357
+    type: socks5
+    server: 38.47.110.171
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 173
+    type: socks5
+    server: 38.47.104.223
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 174
+    type: socks5
+    server: 38.47.104.123
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 175
+    type: socks5
+    server: 38.47.104.173
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 176
+    type: socks5
+    server: 38.47.124.133
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 177
+    type: socks5
+    server: 38.47.105.108
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 358
+    type: socks5
+    server: 38.47.111.101
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 359
+    type: socks5
+    server: 38.47.111.191
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 178
+    type: socks5
+    server: 38.47.127.249
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 179
+    type: socks5
+    server: 38.47.104.205
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 180
+    type: socks5
+    server: 38.47.104.165
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 181
+    type: socks5
+    server: 38.47.104.145
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 182
+    type: socks5
+    server: 38.47.127.149
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 360
+    type: socks5
+    server: 38.47.111.221
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 361
+    type: socks5
+    server: 38.47.111.231
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 362
+    type: socks5
+    server: 167.88.185.17
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 183
+    type: socks5
+    server: 38.47.127.150
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 363
+    type: socks5
+    server: 38.47.111.115
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 364
+    type: socks5
+    server: 38.47.110.232
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 365
+    type: socks5
+    server: 38.47.110.112
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 366
+    type: socks5
+    server: 38.47.110.252
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 184
+    type: socks5
+    server: 38.47.109.122
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 185
+    type: socks5
+    server: 206.237.120.2
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 367
+    type: socks5
+    server: 167.88.185.75
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 368
+    type: socks5
+    server: 167.88.185.15
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 369
+    type: socks5
+    server: 167.88.185.35
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 370
+    type: socks5
+    server: 38.47.111.170
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 371
+    type: socks5
+    server: 167.88.185.62
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 372
+    type: socks5
+    server: 167.88.185.42
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 373
+    type: socks5
+    server: 38.47.111.196
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 374
+    type: socks5
+    server: 38.47.111.226
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 375
+    type: socks5
+    server: 38.47.111.246
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 376
+    type: socks5
+    server: 38.47.111.146
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 377
+    type: socks5
+    server: 38.47.111.136
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 378
+    type: socks5
+    server: 38.47.110.238
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 379
+    type: socks5
+    server: 38.47.110.218
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 186
+    type: socks5
+    server: 38.47.105.247
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 187
+    type: socks5
+    server: 38.47.105.237
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 188
+    type: socks5
+    server: 38.47.126.164
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 189
+    type: socks5
+    server: 38.47.126.174
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 380
+    type: socks5
+    server: 38.47.111.159
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 381
+    type: socks5
+    server: 38.47.111.179
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 190
+    type: socks5
+    server: 38.47.105.172
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 191
+    type: socks5
+    server: 38.47.125.232
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 192
+    type: socks5
+    server: 38.47.124.199
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 193
+    type: socks5
+    server: 38.47.104.119
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 194
+    type: socks5
+    server: 38.47.104.149
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 195
+    type: socks5
+    server: 38.47.124.139
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 196
+    type: socks5
+    server: 38.47.124.189
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 197
+    type: socks5
+    server: 38.47.126.147
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 198
+    type: socks5
+    server: 38.47.105.240
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 199
+    type: socks5
+    server: 38.47.125.120
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 200
+    type: socks5
+    server: 38.47.126.191
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 201
+    type: socks5
+    server: 38.47.126.151
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 202
+    type: socks5
+    server: 38.47.126.121
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 382
+    type: socks5
+    server: 38.47.110.133
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 383
+    type: socks5
+    server: 38.47.110.243
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 384
+    type: socks5
+    server: 38.47.110.143
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 385
+    type: socks5
+    server: 38.47.110.193
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 386
+    type: socks5
+    server: 38.47.110.233
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 203
+    type: socks5
+    server: 38.47.104.132
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 204
+    type: socks5
+    server: 38.47.104.122
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 205
+    type: socks5
+    server: 38.47.124.222
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 387
+    type: socks5
+    server: 38.47.111.103
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 388
+    type: socks5
+    server: 38.47.111.233
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 206
+    type: socks5
+    server: 38.47.125.251
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 207
+    type: socks5
+    server: 38.47.105.121
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 208
+    type: socks5
+    server: 38.47.105.131
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 389
+    type: socks5
+    server: 38.47.111.243
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 390
+    type: socks5
+    server: 38.47.111.213
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 391
+    type: socks5
+    server: 38.47.111.113
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 392
+    type: socks5
+    server: 38.47.111.163
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 393
+    type: socks5
+    server: 167.88.185.11
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 209
+    type: socks5
+    server: 38.47.126.158
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 210
+    type: socks5
+    server: 38.47.126.198
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 211
+    type: socks5
+    server: 38.47.126.108
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 212
+    type: socks5
+    server: 38.47.126.228
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 213
+    type: socks5
+    server: 38.47.126.128
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 214
+    type: socks5
+    server: 38.47.126.188
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 215
+    type: socks5
+    server: 38.47.127.185
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 394
+    type: socks5
+    server: 167.88.185.182
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 395
+    type: socks5
+    server: 167.88.185.215
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 396
+    type: socks5
+    server: 167.88.185.155
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 397
+    type: socks5
+    server: 167.88.185.153
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 398
+    type: socks5
+    server: 167.88.185.253
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 399
+    type: socks5
+    server: 167.88.185.156
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 400
+    type: socks5
+    server: 167.88.185.151
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 401
+    type: socks5
+    server: 167.88.185.132
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 402
+    type: socks5
+    server: 167.88.185.235
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 403
+    type: socks5
+    server: 167.88.185.233
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 404
+    type: socks5
+    server: 167.88.185.201
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 405
+    type: socks5
+    server: 167.88.185.205
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 406
+    type: socks5
+    server: 167.88.185.209
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 407
+    type: socks5
+    server: 167.88.185.104
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 408
+    type: socks5
+    server: 167.88.185.206
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 409
+    type: socks5
+    server: 167.88.185.243
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 410
+    type: socks5
+    server: 167.88.185.248
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 411
+    type: socks5
+    server: 167.88.185.144
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 412
+    type: socks5
+    server: 167.88.185.220
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 413
+    type: socks5
+    server: 167.88.185.129
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 414
+    type: socks5
+    server: 167.88.185.162
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 415
+    type: socks5
+    server: 167.88.185.163
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 416
+    type: socks5
+    server: 167.88.185.161
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 417
+    type: socks5
+    server: 167.88.185.178
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 418
+    type: socks5
+    server: 167.88.185.170
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 419
+    type: socks5
+    server: 167.88.185.172
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 420
+    type: socks5
+    server: 167.88.185.165
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 421
+    type: socks5
+    server: 167.88.185.149
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 422
+    type: socks5
+    server: 167.88.185.249
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 423
+    type: socks5
+    server: 167.88.185.195
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 424
+    type: socks5
+    server: 167.88.185.199
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 216
+    type: socks5
+    server: 206.237.120.83
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 大阪 大阪 425
+    type: socks5
+    server: 167.88.185.241
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 217
+    type: socks5
+    server: 206.237.120.150
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 218
+    type: socks5
+    server: 206.237.120.163
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 219
+    type: socks5
+    server: 206.237.120.225
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 220
+    type: socks5
+    server: 206.237.120.250
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 221
+    type: socks5
+    server: 206.237.120.222
+    port: 5555
+    username: socks5
+    password: socks5
+  - name: 🇯🇵 日本 东京 东京 222
+    type: socks5
+    server: 206.237.120.229
+    port: 5555
+    username: socks5
+    password: socks5
