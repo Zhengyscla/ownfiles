@@ -5,75 +5,39 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
-  - {name: 🇺🇸 vless-us4, server: 156.239.242.219, port: 20530, type: vless, uuid: b6342b2e-f9ad-4670-8300-0fba83c0d32a, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: true, reality-opts: {public-key: OS2o5LeUfPbnIJ5rypAl_uVyDPAodY3aD9xXC2WwKV8, short-id: "c2d0e68a" }, servername: go.microsoft.com, client-fingerprint: chrome, network: tcp}
-  - {name: 🇺🇸 vless-us3, server: 104.223.38.118, port: 43943, type: vless, uuid: 01875643-d4d1-4e46-a67c-6f492ca3ff1b, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: true, reality-opts: {public-key: w1mNYVY7pGnEOaP6BTESabPrmT5-5D-a5XegkAG-1io, short-id: "54fc" }, servername: go.microsoft.com, client-fingerprint: chrome, network: tcp}
   - {name: 🇺🇸 vless-US, server: vps.clazys.qzz.io, port: 34019, type: vless, uuid: d0e6565a-2b22-4ff3-eeef-1b60a50b6b6c, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: true, reality-opts: {public-key: o_Ba9la4Y-bhIrEfndWwZxSaKUMrunBO0cz7hX8CaUQ, short-id: "b0d317f6de" }, servername: go.microsoft.com, client-fingerprint: chrome, network: tcp}
   - {name: 🇸🇬 vless-sg, server: 2a11:8083:11:105e::6e, port: 29794, type: vless, uuid: 9873b6ff-69b7-4c91-917c-10a15b222c5e, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: true, reality-opts: {public-key: N5IINPIj85VpWBm7-I1RjsU5qpQzSha6BOfO_lZgmHk, short-id: "7edf" }, servername: go.microsoft.com, client-fingerprint: chrome, network: tcp}
-  - {name: 🇭🇰 vless-hk2, server: 154.219.116.35, port: 36042, type: vless, uuid: 19f9361b-e007-4198-d388-29344c984289, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: true, reality-opts: {public-key: SFmYFUlZZXHfFwXOwJCZilclqbZxPUjke2fGAvW2PRs, short-id: "fded" }, servername: go.microsoft.com, client-fingerprint: chrome, network: tcp}
-  - {name: 🇭🇰 vless-HK, server: 165.99.42.228, port: 47510, type: vless, uuid: 7f3ec7e2-5094-4554-fbed-b04638ae3099, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: true, reality-opts: {public-key: rrJCTvZIcyZCyhuBAPCNGeHNo3MKJZEvnONDq1YiBRg, short-id: "088054a1" }, servername: go.microsoft.com, client-fingerprint: chrome, network: tcp}
-  - {name: 🇫🇮 vless-芬兰, server: 5.61.88.115, port: 34857, type: vless, uuid: fb1c3860-d7c0-4f52-f2f2-642085f0bcdd, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: true, reality-opts: {public-key: ffd3ayRs39fnoeW5Ktcwi14wL-kOTgfrj_xziU9eOEo, short-id: "944de3ac28" }, servername: go.microsoft.com, client-fingerprint: chrome, network: tcp}
-  - {name: 🇺🇸 hysteria2-us4, server: 156.239.242.219, port: 16587, type: hysteria2, password: QZm0KNZJF0, auth: QZm0KNZJF0, sni: go.microsoft.com, skip-cert-verify: true}
-  - {name: 🇺🇸 hysteria2-us3, server: 104.223.38.118, port: 47483, type: hysteria2, password: moKDOhxbVP, auth: moKDOhxbVP, sni: go.microsoft.com, skip-cert-verify: true}
   - {name: 🇺🇸 hysteria2-US, server: vps.clazys.qzz.io, port: 35644, type: hysteria2, password: NmXVObCJN7, auth: NmXVObCJN7, sni: vps.clazys.qzz.io, skip-cert-verify: true}
   - {name: 🇸🇬 hysteria2-sg, server: 2a11:8083:11:105e::6e, port: 56937, type: hysteria2, password: CDpLRV9gB4, auth: CDpLRV9gB4, sni: go.microsoft.com, skip-cert-verify: true}
-  - {name: 🇭🇰 hysteria2-HK, server: 165.99.42.228, port: 46985, type: hysteria2, password: 5SzyI1cwgv, auth: 5SzyI1cwgv, sni: go.microsoft.com, skip-cert-verify: true}
-  - {name: 🇫🇮 hysteria2-芬兰, server: 5.61.88.115, port: 34965, type: hysteria2, password: 8MyDlfByxo, auth: 8MyDlfByxo, sni: go.microsoft.com, skip-cert-verify: true}
 proxy-groups:
   - name: 🔰 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 🇺🇸 vless-us4
-      - 🇺🇸 vless-us3
       - 🇺🇸 vless-US
       - 🇸🇬 vless-sg
-      - 🇭🇰 vless-hk2
-      - 🇭🇰 vless-HK
-      - 🇫🇮 vless-芬兰
-      - 🇺🇸 hysteria2-us4
-      - 🇺🇸 hysteria2-us3
       - 🇺🇸 hysteria2-US
       - 🇸🇬 hysteria2-sg
-      - 🇭🇰 hysteria2-HK
-      - 🇫🇮 hysteria2-芬兰
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies:
-      - 🇺🇸 vless-us4
-      - 🇺🇸 vless-us3
       - 🇺🇸 vless-US
       - 🇸🇬 vless-sg
-      - 🇭🇰 vless-hk2
-      - 🇭🇰 vless-HK
-      - 🇫🇮 vless-芬兰
-      - 🇺🇸 hysteria2-us4
-      - 🇺🇸 hysteria2-us3
       - 🇺🇸 hysteria2-US
       - 🇸🇬 hysteria2-sg
-      - 🇭🇰 hysteria2-HK
-      - 🇫🇮 hysteria2-芬兰
   - name: 🎥 NETFLIX
     type: select
     proxies:
       - 🔰 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 🇺🇸 vless-us4
-      - 🇺🇸 vless-us3
       - 🇺🇸 vless-US
       - 🇸🇬 vless-sg
-      - 🇭🇰 vless-hk2
-      - 🇭🇰 vless-HK
-      - 🇫🇮 vless-芬兰
-      - 🇺🇸 hysteria2-us4
-      - 🇺🇸 hysteria2-us3
       - 🇺🇸 hysteria2-US
       - 🇸🇬 hysteria2-sg
-      - 🇭🇰 hysteria2-HK
-      - 🇫🇮 hysteria2-芬兰
   - name: ⛔️ 广告拦截
     type: select
     proxies:
@@ -92,80 +56,43 @@ proxy-groups:
       - 🔰 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 🇺🇸 vless-us4
-      - 🇺🇸 vless-us3
       - 🇺🇸 vless-US
       - 🇸🇬 vless-sg
-      - 🇭🇰 vless-hk2
-      - 🇭🇰 vless-HK
-      - 🇫🇮 vless-芬兰
-      - 🇺🇸 hysteria2-us4
-      - 🇺🇸 hysteria2-us3
       - 🇺🇸 hysteria2-US
       - 🇸🇬 hysteria2-sg
-      - 🇭🇰 hysteria2-HK
-      - 🇫🇮 hysteria2-芬兰
   - name: 🌏 国内媒体
     type: select
     proxies:
       - 🎯 全球直连
-      - 🇭🇰 vless-hk2
       - 🔰 节点选择
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🔰 节点选择
-      - 🇺🇸 vless-us4
-      - 🇺🇸 vless-us3
       - 🇺🇸 vless-US
       - 🇸🇬 vless-sg
-      - 🇭🇰 vless-hk2
-      - 🇭🇰 vless-HK
-      - 🇫🇮 vless-芬兰
-      - 🇺🇸 hysteria2-us4
-      - 🇺🇸 hysteria2-us3
       - 🇺🇸 hysteria2-US
       - 🇸🇬 hysteria2-sg
-      - 🇭🇰 hysteria2-HK
-      - 🇫🇮 hysteria2-芬兰
   - name: 📲 电报信息
     type: select
     proxies:
       - 🔰 节点选择
       - 🎯 全球直连
-      - 🇺🇸 vless-us4
-      - 🇺🇸 vless-us3
       - 🇺🇸 vless-US
       - 🇸🇬 vless-sg
-      - 🇭🇰 vless-hk2
-      - 🇭🇰 vless-HK
-      - 🇫🇮 vless-芬兰
-      - 🇺🇸 hysteria2-us4
-      - 🇺🇸 hysteria2-us3
       - 🇺🇸 hysteria2-US
       - 🇸🇬 hysteria2-sg
-      - 🇭🇰 hysteria2-HK
-      - 🇫🇮 hysteria2-芬兰
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🔰 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 🇺🇸 vless-us4
-      - 🇺🇸 vless-us3
       - 🇺🇸 vless-US
       - 🇸🇬 vless-sg
-      - 🇭🇰 vless-hk2
-      - 🇭🇰 vless-HK
-      - 🇫🇮 vless-芬兰
-      - 🇺🇸 hysteria2-us4
-      - 🇺🇸 hysteria2-us3
       - 🇺🇸 hysteria2-US
       - 🇸🇬 hysteria2-sg
-      - 🇭🇰 hysteria2-HK
-      - 🇫🇮 hysteria2-芬兰
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -181,19 +108,10 @@ proxy-groups:
       - 🔰 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 🇺🇸 vless-us4
-      - 🇺🇸 vless-us3
       - 🇺🇸 vless-US
       - 🇸🇬 vless-sg
-      - 🇭🇰 vless-hk2
-      - 🇭🇰 vless-HK
-      - 🇫🇮 vless-芬兰
-      - 🇺🇸 hysteria2-us4
-      - 🇺🇸 hysteria2-us3
       - 🇺🇸 hysteria2-US
       - 🇸🇬 hysteria2-sg
-      - 🇭🇰 hysteria2-HK
-      - 🇫🇮 hysteria2-芬兰
 rules:
   - DOMAIN-SUFFIX,local,🎯 全球直连
   - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
