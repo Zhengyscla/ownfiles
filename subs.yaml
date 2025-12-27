@@ -5,30 +5,24 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
-  - {name: 🇯🇵 hysteria2-JP-Lite-Ftls, server: 154.82.137.251, port: 27261, type: hysteria2, password: LpMHP8OPhQ, auth: LpMHP8OPhQ, sni: go.microsoft.com, skip-cert-verify: true}
-  - {name: 🇯🇵 vless-JP-Lite-reality, server: 154.82.137.251, port: 26897, type: vless, uuid: 7ff5417d-28d4-460b-8114-2e4bce77159e, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: true, reality-opts: {public-key: pO-t_IxgJHzl_xEibm4Hfz6qxn-nq0Lsj8qPV8GsgUo, short-id: "fc57be" }, servername: go.microsoft.com, client-fingerprint: chrome, network: tcp}
-  - {name: 🇯🇵 hysteria2-JP-Lite-Ftls 2, server: 2602:fa4f:a90:e441:8c10:9693:7be8:8f42, port: 27261, type: hysteria2, password: 1uzvnV2uHZ, auth: 1uzvnV2uHZ, sni: go.microsoft.com, skip-cert-verify: true}
-  - {name: 🇯🇵 vless-JP-Lite-reality 2, server: 2602:fa4f:a90:e441:8c10:9693:7be8:8f42, port: 26897, type: vless, uuid: ecc166e5-b3da-45e3-8cbe-4ff08d0e7442, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: true, reality-opts: {public-key: pO-t_IxgJHzl_xEibm4Hfz6qxn-nq0Lsj8qPV8GsgUo, short-id: "71" }, servername: go.microsoft.com, client-fingerprint: chrome, network: tcp}
+  - {name: 🇯🇵 hysteria2-JP-Lite-tls, server: jplite.clazysvps.qzz.io, port: 54980, type: hysteria2, password: gLGKmDbbE3, auth: gLGKmDbbE3, sni: jplite.clazysvps.qzz.io, skip-cert-verify: true}
+  - {name: 🇯🇵 vless-JP-Lite-tls, server: jplite.clazysvps.qzz.io, port: 27569, type: vless, uuid: 29ef4755-ddc9-481d-bda8-467c3908dd8a, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: true, servername: jplite.clazysvps.qzz.io, client-fingerprint: chrome, network: tcp}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 🇯🇵 hysteria2-JP-Lite-Ftls
-      - 🇯🇵 vless-JP-Lite-reality
-      - 🇯🇵 hysteria2-JP-Lite-Ftls 2
-      - 🇯🇵 vless-JP-Lite-reality 2
+      - 🇯🇵 hysteria2-JP-Lite-tls
+      - 🇯🇵 vless-JP-Lite-tls
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - 🇯🇵 hysteria2-JP-Lite-Ftls
-      - 🇯🇵 vless-JP-Lite-reality
-      - 🇯🇵 hysteria2-JP-Lite-Ftls 2
-      - 🇯🇵 vless-JP-Lite-reality 2
+      - 🇯🇵 hysteria2-JP-Lite-tls
+      - 🇯🇵 vless-JP-Lite-tls
 rules:
   - DOMAIN-SUFFIX,xn--ngstr-lra8j.com,🚀 节点选择
   - DOMAIN-SUFFIX,services.googleapis.cn,🚀 节点选择
