@@ -5,60 +5,36 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
-  - {name: 🇩🇪 机场推荐:dafei.de 荷兰 07, server: 185.92.220.240, port: 30205, type: hysteria2, password: 8864aa9f-7517-4fd5-aef1-32050eb3095d, auth: 8864aa9f-7517-4fd5-aef1-32050eb3095d, sni: net2025.afsharidempire.uk, skip-cert-verify: true, obfs: salamander, obfs-password: GdQ4bgvT8RFwuWi2}
-  - {name: 🇭🇰 机场推荐:dafei.de 香港 16, server: 103.30.78.138, port: 35436, type: vmess, uuid: 084928cf-ed55-42e8-b686-b8e271dfb0ce, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true}
-  - {name: 🇨🇦 机场推荐:dafei.de 加拿大 01, server: 150.230.28.100, port: 45979, type: hysteria2, password: cfe032e4-1bc3-454f-9d09-301b0aea08ff, auth: cfe032e4-1bc3-454f-9d09-301b0aea08ff, sni: www.bing.com, skip-cert-verify: true}
-  - {name: 🇺🇸 机场推荐:dafei.de 美国 24, server: 1036a5-330-co-3.9966661.xyz, port: 3000, type: hysteria2, password: 8d80603a-d7d7-4bcd-ad88-aaf1cf70b8c6, auth: 8d80603a-d7d7-4bcd-ad88-aaf1cf70b8c6, sni: 1036a5-330-co.9966661.xyz, skip-cert-verify: true}
-  - {name: 🇩🇪 机场推荐:dafei.de 玻利维亚 01, server: 185.93.173.60, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=}
-  - {name: 🇺🇸 机场推荐:dafei.de 美国 09, server: c94442-20-1-3.9966661.xyz, port: 3000, type: hysteria2, password: 8d80603a-d7d7-4bcd-ad88-aaf1cf70b8c6, auth: 8d80603a-d7d7-4bcd-ad88-aaf1cf70b8c6, sni: c94442-20-1.9966661.xyz, skip-cert-verify: true}
-  - {name: 🇭🇰 机场推荐:dafei.de 香港 05, server: 742343-u-jv-hk2-4.9966661.xyz, port: 3000, type: hysteria2, password: abf03bbd-ec5c-45d9-bf63-c1851a1f4c4d, auth: abf03bbd-ec5c-45d9-bf63-c1851a1f4c4d, sni: 742343-u-jv-hk2.9966661.xyz, skip-cert-verify: true}
-  - {name: 🇺🇸 机场推荐:dafei.de 美国 15, server: 5f6a56-20-3.9966661.xyz, port: 3000, type: hysteria2, password: 8d80603a-d7d7-4bcd-ad88-aaf1cf70b8c6, auth: 8d80603a-d7d7-4bcd-ad88-aaf1cf70b8c6, sni: 5f6a56-20.9966661.xyz, skip-cert-verify: true}
-  - {name: 🇺🇸 机场推荐:dafei.de 美国 02, server: 36.156.102.84, port: 6752, type: trojan, password: 253bc477d4e43c209f2d427272968280, sni: www.nintendogames.net, skip-cert-verify: true}
-  - {name: 🇯🇵 机场推荐:dafei.de 日本 03, server: 133.18.163.202, port: 50000, type: hysteria2, password: e0fafa17-7ac1-4435-af1a-d61e2904f367, auth: e0fafa17-7ac1-4435-af1a-d61e2904f367, sni: www.microsoft.com, skip-cert-verify: true}
-  - {name: 🇺🇸 机场推荐:dafei.de 美国 70, server: 108.165.213.197, port: 23891, type: hysteria2, password: c232f411-96b5-4b07-b2f7-66a434725ffb, auth: c232f411-96b5-4b07-b2f7-66a434725ffb, sni: fus01.mistea.top, skip-cert-verify: true}
-  - {name: 🇨🇦 机场推荐:dafei.de 加拿大 02, server: 40.233.103.51, port: 47262, type: hysteria2, password: 862e90e1-2f26-4506-b8b9-0adf20da05fc, auth: 862e90e1-2f26-4506-b8b9-0adf20da05fc, sni: www.bing.com, skip-cert-verify: true}
-  - {name: 🇸🇬 机场推荐:dafei.de 新加坡 04, server: 38.180.106.124, port: 8443, type: trojan, password: installshield, sni: 38.180.106.124, skip-cert-verify: true}
-  - {name: 🇺🇸 机场推荐:dafei.de 美国 67, server: 113.192.61.19, port: 63979, type: hysteria2, password: 9772ecf2-6732-4bfb-a8b1-f48af577c76c, auth: 9772ecf2-6732-4bfb-a8b1-f48af577c76c, sni: www.bing.com, skip-cert-verify: true}
+  - {name: 🇯🇵 hysteria2-JP-Lite-tls, server: jplite.clazysvps.qzz.io, port: 54980, type: hysteria2, password: gLGKmDbbE3, auth: gLGKmDbbE3, sni: jplite.clazysvps.qzz.io, skip-cert-verify: true}
+  - {name: 🇯🇵 vless-JP-Lite-tls, server: jplite.clazysvps.qzz.io, port: 27569, type: vless, uuid: 29ef4755-ddc9-481d-bda8-467c3908dd8a, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: true, servername: jplite.clazysvps.qzz.io, client-fingerprint: chrome, network: tcp}
+  - {name: 🇩🇪 hysteria2-DE, server: 80.75.218.223, port: 14484, type: hysteria2, password: N59wDmj6F8, auth: N59wDmj6F8, sni: go.microsoft.com, skip-cert-verify: true}
+  - {name: 🇩🇪 vless-DE, server: 80.75.218.223, port: 30396, type: vless, uuid: 746fa7ae-a65b-4050-e15b-4d69b27e903f, tls: false, tfo: false, skip-cert-verify: true, network: tcp}
+  - {name: 🇩🇪 hysteria2-DE 2, server: 2a13:7e80:0:387:cafe:babe:0:66, port: 14484, type: hysteria2, password: JyNYWZhOME, auth: JyNYWZhOME, sni: go.microsoft.com, skip-cert-verify: true}
+  - {name: 🇩🇪 vless-DE 2, server: 2a13:7e80:0:387:cafe:babe:0:66, port: 30396, type: vless, uuid: c793271e-6c28-4469-82f7-64bfaf25ef9a, tls: false, tfo: false, skip-cert-verify: true, network: tcp}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 🇩🇪 机场推荐:dafei.de 荷兰 07
-      - 🇭🇰 机场推荐:dafei.de 香港 16
-      - 🇨🇦 机场推荐:dafei.de 加拿大 01
-      - 🇺🇸 机场推荐:dafei.de 美国 24
-      - 🇩🇪 机场推荐:dafei.de 玻利维亚 01
-      - 🇺🇸 机场推荐:dafei.de 美国 09
-      - 🇭🇰 机场推荐:dafei.de 香港 05
-      - 🇺🇸 机场推荐:dafei.de 美国 15
-      - 🇺🇸 机场推荐:dafei.de 美国 02
-      - 🇯🇵 机场推荐:dafei.de 日本 03
-      - 🇺🇸 机场推荐:dafei.de 美国 70
-      - 🇨🇦 机场推荐:dafei.de 加拿大 02
-      - 🇸🇬 机场推荐:dafei.de 新加坡 04
-      - 🇺🇸 机场推荐:dafei.de 美国 67
+      - 🇯🇵 hysteria2-JP-Lite-tls
+      - 🇯🇵 vless-JP-Lite-tls
+      - 🇩🇪 hysteria2-DE
+      - 🇩🇪 vless-DE
+      - 🇩🇪 hysteria2-DE 2
+      - 🇩🇪 vless-DE 2
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - 🇩🇪 机场推荐:dafei.de 荷兰 07
-      - 🇭🇰 机场推荐:dafei.de 香港 16
-      - 🇨🇦 机场推荐:dafei.de 加拿大 01
-      - 🇺🇸 机场推荐:dafei.de 美国 24
-      - 🇩🇪 机场推荐:dafei.de 玻利维亚 01
-      - 🇺🇸 机场推荐:dafei.de 美国 09
-      - 🇭🇰 机场推荐:dafei.de 香港 05
-      - 🇺🇸 机场推荐:dafei.de 美国 15
-      - 🇺🇸 机场推荐:dafei.de 美国 02
-      - 🇯🇵 机场推荐:dafei.de 日本 03
-      - 🇺🇸 机场推荐:dafei.de 美国 70
-      - 🇨🇦 机场推荐:dafei.de 加拿大 02
-      - 🇸🇬 机场推荐:dafei.de 新加坡 04
-      - 🇺🇸 机场推荐:dafei.de 美国 67
+      - 🇯🇵 hysteria2-JP-Lite-tls
+      - 🇯🇵 vless-JP-Lite-tls
+      - 🇩🇪 hysteria2-DE
+      - 🇩🇪 vless-DE
+      - 🇩🇪 hysteria2-DE 2
+      - 🇩🇪 vless-DE 2
 rules:
   - DOMAIN-SUFFIX,xn--ngstr-lra8j.com,🚀 节点选择
   - DOMAIN-SUFFIX,services.googleapis.cn,🚀 节点选择
@@ -83,6 +59,7 @@ rules:
   - DOMAIN-SUFFIX,acl4.ssr,DIRECT
   - DOMAIN-SUFFIX,ip6-localhost,DIRECT
   - DOMAIN-SUFFIX,ip6-loopback,DIRECT
+  - DOMAIN-SUFFIX,internal,DIRECT
   - DOMAIN-SUFFIX,lan,DIRECT
   - DOMAIN-SUFFIX,local,DIRECT
   - DOMAIN-SUFFIX,localhost,DIRECT
@@ -90,6 +67,7 @@ rules:
   - IP-CIDR,10.0.0.0/8,DIRECT,no-resolve
   - IP-CIDR,100.64.0.0/10,DIRECT,no-resolve
   - IP-CIDR,127.0.0.0/8,DIRECT,no-resolve
+  - IP-CIDR,169.254.0.0/16,DIRECT,no-resolve
   - IP-CIDR,172.16.0.0/12,DIRECT,no-resolve
   - IP-CIDR,192.168.0.0/16,DIRECT,no-resolve
   - IP-CIDR,198.18.0.0/16,DIRECT,no-resolve
@@ -200,6 +178,7 @@ rules:
   - DOMAIN-SUFFIX,aliapp.org,DIRECT
   - DOMAIN-SUFFIX,alibaba.com,DIRECT
   - DOMAIN-SUFFIX,alibabacloud.com,DIRECT
+  - DOMAIN-SUFFIX,alibabachengdun.com,DIRECT
   - DOMAIN-SUFFIX,alibabausercontent.com,DIRECT
   - DOMAIN-SUFFIX,alicdn.com,DIRECT
   - DOMAIN-SUFFIX,alicloudccp.com,DIRECT
@@ -218,6 +197,7 @@ rules:
   - DOMAIN-SUFFIX,autonavi.com,DIRECT
   - DOMAIN-SUFFIX,dingtalk.com,DIRECT
   - DOMAIN-SUFFIX,ele.me,DIRECT
+  - DOMAIN-SUFFIX,elemecdn.com,DIRECT
   - DOMAIN-SUFFIX,hichina.com,DIRECT
   - DOMAIN-SUFFIX,mmstat.com,DIRECT
   - DOMAIN-SUFFIX,mxhichina.com,DIRECT
@@ -225,6 +205,7 @@ rules:
   - DOMAIN-SUFFIX,taobao.com,DIRECT
   - DOMAIN-SUFFIX,taobaocdn.com,DIRECT
   - DOMAIN-SUFFIX,tbcache.com,DIRECT
+  - DOMAIN-SUFFIX,tbcdn.cn,DIRECT
   - DOMAIN-SUFFIX,tbcdn.com,DIRECT
   - DOMAIN-SUFFIX,tmall.com,DIRECT
   - DOMAIN-SUFFIX,tmall.hk,DIRECT
@@ -554,6 +535,7 @@ rules:
   - DOMAIN-SUFFIX,air-matters.io,DIRECT
   - DOMAIN-SUFFIX,aixifan.com,DIRECT
   - DOMAIN-SUFFIX,algocasts.io,DIRECT
+  - DOMAIN-SUFFIX,asklink.com,DIRECT
   - DOMAIN-SUFFIX,babytree.com,DIRECT
   - DOMAIN-SUFFIX,babytreeimg.com,DIRECT
   - DOMAIN-SUFFIX,baicizhan.com,DIRECT
@@ -1131,7 +1113,6 @@ rules:
   - DOMAIN-SUFFIX,scupio.com,REJECT
   - DOMAIN-SUFFIX,shuiguo.com,REJECT
   - DOMAIN-SUFFIX,shuzilm.cn,REJECT
-  - DOMAIN-SUFFIX,similarweb.com,REJECT
   - DOMAIN-SUFFIX,sitemeter.com,REJECT
   - DOMAIN-SUFFIX,sitescout.com,REJECT
   - DOMAIN-SUFFIX,sitetag.us,REJECT
@@ -1983,9 +1964,7 @@ rules:
   - DOMAIN-SUFFIX,log.mix.sina.com.cn,REJECT
   - DOMAIN-SUFFIX,mobileads.dx.cn,REJECT
   - DOMAIN-SUFFIX,newspush.sinajs.cn,REJECT
-  - DOMAIN-SUFFIX,pay.mobile.sina.cn,REJECT
   - DOMAIN-SUFFIX,sax.mobile.sina.cn,REJECT
-  - DOMAIN-SUFFIX,sax.sina.com.cn,REJECT
   - DOMAIN-SUFFIX,saxd.sina.com.cn,REJECT
   - DOMAIN-SUFFIX,sdkapp.mobile.sina.cn,REJECT
   - DOMAIN-SUFFIX,sdkapp.uve.weibo.com,REJECT
@@ -2386,7 +2365,6 @@ rules:
   - DOMAIN-SUFFIX,dol.tianyaui.cn,REJECT
   - DOMAIN-SUFFIX,dw.xcar.com.cn,REJECT
   - DOMAIN-SUFFIX,e.nexac.com,REJECT
-  - DOMAIN-SUFFIX,eq.10jqka.com.cn,REJECT
   - DOMAIN-SUFFIX,exp.17wo.cn,REJECT
   - DOMAIN-SUFFIX,game.51yund.com,REJECT
   - DOMAIN-SUFFIX,ganjituiguang.ganji.com,REJECT
@@ -2403,7 +2381,6 @@ rules:
   - DOMAIN-SUFFIX,mobileads.msn.com,REJECT
   - DOMAIN-SUFFIX,n.cosbot.cn,REJECT
   - DOMAIN-SUFFIX,newton-api.ele.me,REJECT
-  - DOMAIN-SUFFIX,ozone.10jqka.com.cn,REJECT
   - DOMAIN-SUFFIX,pdl.gionee.com,REJECT
   - DOMAIN-SUFFIX,pica-juicy.picacomic.com,REJECT
   - DOMAIN-SUFFIX,pixel.wp.com,REJECT
@@ -2416,7 +2393,6 @@ rules:
   - DOMAIN-SUFFIX,res.gwifi.com.cn,REJECT
   - DOMAIN-SUFFIX,ssp.kssws.ks-cdn.com,REJECT
   - DOMAIN-SUFFIX,sta.ganji.com,REJECT
-  - DOMAIN-SUFFIX,stat.10jqka.com.cn,REJECT
   - DOMAIN-SUFFIX,stat.it168.com,REJECT
   - DOMAIN-SUFFIX,stats.chinaz.com,REJECT
   - DOMAIN-SUFFIX,stats.developingperspective.com,REJECT
@@ -2424,7 +2400,6 @@ rules:
   - DOMAIN-SUFFIX,tracker.yhd.com,REJECT
   - DOMAIN-SUFFIX,tralog.ganji.com,REJECT
   - DOMAIN-SUFFIX,up.qingdaonews.com,REJECT
-  - DOMAIN-SUFFIX,vaserviece.10jqka.com.cn,REJECT
   - IP-CIDR,8.128.0.0/10,DIRECT,no-resolve
   - IP-CIDR,8.209.32.0/22,DIRECT,no-resolve
   - IP-CIDR,8.209.40.0/21,DIRECT,no-resolve
