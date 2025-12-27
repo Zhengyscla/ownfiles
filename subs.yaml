@@ -5,96 +5,30 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
-  - {name: NL_1|1.1MB/s|50%, server: www.speedtest.net, port: 443, type: vless, uuid: 84d4dd52-c1eb-49b5-be2c-6465600487aa, tls: true, alpn: [http%2F1.1], tfo: false, skip-cert-verify: true, servername: s9HXpY4f2sPyR3y95gosOO1QUF3ZxH1U.PagES.deV, client-fingerprint: randomized, network: ws, ws-opts: {path: "/RgQ374KRlkr2E6DE?ed=2560", headers: {Host: s9HXpY4f2sPyR3y95gosOO1QUF3ZxH1U.PagES.deV}}}
-  - {name: 🇭🇰 HK_1|1.3MB/s|YT-HK|NF|D+|2%, server: 221.128.195.12, port: 3841, type: trojan, password: 1b57001bd214304027025a740b6cf1ac, sni: www.nintendogames.net, skip-cert-verify: true}
-  - {name: 🇸🇬 SG_1|2.3MB/s|GPT⁺|YT-SG|NF|GM, server: 36.150.215.248, port: 8041, type: trojan, password: BxceQaOe, sni: t.me%252Fripaojiedian, skip-cert-verify: true}
-  - {name: 🇺🇸 US_20|1.7MB/s|GPT⁺|YT-US|NF|33%, server: 67e01b04-t3dk00-tcm6ys-deip.la.shifen.uk, port: 1743, type: hysteria2, password: 7a2512b4-09ee-11f0-8d46-f23c9313b177, auth: 7a2512b4-09ee-11f0-8d46-f23c9313b177, sni: 67e01b04-t3dk00-tcm6ys-deip.la.shifen.uk, skip-cert-verify: true}
-  - {name: 🇺🇸 US_18|2.0MB/s|GPT⁺|YT-US|NF|33%, server: 57ac7353-t4x400-t9lxaa-1glq.la.shifen.uk, port: 1743, type: hysteria2, password: df7bed3c-06eb-11f0-8ebc-f23c93141fad, auth: df7bed3c-06eb-11f0-8ebc-f23c93141fad, sni: 57ac7353-t4x400-t9lxaa-1glq.la.shifen.uk, skip-cert-verify: true}
-  - {name: 🇺🇸 US_19|2.2MB/s|GPT⁺|YT-US|NF|33%, server: cc65f71a-t4v9c0-t5waci-4550.la.shifen.uk, port: 1743, type: hysteria2, password: 6286105c-fb6d-11ef-be96-f23c93136cb3, auth: 6286105c-fb6d-11ef-be96-f23c93136cb3, sni: cc65f71a-t4v9c0-t5waci-4550.la.shifen.uk, skip-cert-verify: true}
-  - {name: 🇺🇸 US_14|2.2MB/s|GPT⁺|YT-US|NF|33%, server: 5bedbab5-t3bpc0-t49cd4-4550.la.shifen.uk, port: 1743, type: hysteria2, password: 6286105c-fb6d-11ef-be96-f23c93136cb3, auth: 6286105c-fb6d-11ef-be96-f23c93136cb3, sni: 5bedbab5-t3bpc0-t49cd4-4550.la.shifen.uk, skip-cert-verify: true}
-  - {name: 🇺🇸 US_8|3.2MB/s|GPT⁺|YT-US|NF|33%, server: eb8d3417-t4teo0-tdtx5w-au6.la.shifen.uk, port: 1743, type: hysteria2, password: 1b609740-eec2-11ef-8543-f23c93136cb3, auth: 1b609740-eec2-11ef-8543-f23c93136cb3, sni: eb8d3417-t4teo0-tdtx5w-au6.la.shifen.uk, skip-cert-verify: true}
-  - {name: 🇺🇸 US_13|2.5MB/s|GPT⁺|YT-US|NF|33%, server: d48dac10-t4v9c0-tdtx5w-au6.la.shifen.uk, port: 1743, type: hysteria2, password: 1b609740-eec2-11ef-8543-f23c93136cb3, auth: 1b609740-eec2-11ef-8543-f23c93136cb3, sni: d48dac10-t4v9c0-tdtx5w-au6.la.shifen.uk, skip-cert-verify: true}
-  - {name: 🇺🇸 US_17|2.2MB/s|GPT⁺|YT-US|NF|33%, server: 026b10f5-t4whs0-t5vo4i-4550.la.shifen.uk, port: 1743, type: hysteria2, password: 6286105c-fb6d-11ef-be96-f23c93136cb3, auth: 6286105c-fb6d-11ef-be96-f23c93136cb3, sni: 026b10f5-t4whs0-t5vo4i-4550.la.shifen.uk, skip-cert-verify: true}
-  - {name: 🇺🇸 US_11|2.3MB/s|GPT⁺|YT-US|NF|33%, server: 6adab57e-t53wg0-tdvgqe-2gok.la.shifen.uk, port: 1743, type: hysteria2, password: 17cdeb6c-f046-11ee-bdac-f23c93141fad, auth: 17cdeb6c-f046-11ee-bdac-f23c93141fad, sni: 6adab57e-t53wg0-tdvgqe-2gok.la.shifen.uk, skip-cert-verify: true}
-  - {name: 🇺🇸 US_6|3.8MB/s|GPT⁺|YT-US|NF|33%, server: f9a084a0-t4x400-t5ht86-dnss.la.shifen.uk, port: 1743, type: hysteria2, password: 16955d72-1794-11f0-a035-f23c95b6f51d, auth: 16955d72-1794-11f0-a035-f23c95b6f51d, sni: f9a084a0-t4x400-t5ht86-dnss.la.shifen.uk, skip-cert-verify: true}
-  - {name: 🇺🇸 US_15|2.1MB/s|GPT⁺|YT-US|NF|33%, server: bb441d0e-t4x400-t5waci-4550.la.shifen.uk, port: 1743, type: hysteria2, password: 6286105c-fb6d-11ef-be96-f23c93136cb3, auth: 6286105c-fb6d-11ef-be96-f23c93136cb3, sni: bb441d0e-t4x400-t5waci-4550.la.shifen.uk, skip-cert-verify: true}
-  - {name: 🇺🇸 US_12|2.3MB/s|GPT⁺|YT-US|NF|33%, server: 360311d5-t4v9c0-tcm6ys-deip.la.shifen.uk, port: 1743, type: hysteria2, password: 7a2512b4-09ee-11f0-8d46-f23c9313b177, auth: 7a2512b4-09ee-11f0-8d46-f23c9313b177, sni: 360311d5-t4v9c0-tcm6ys-deip.la.shifen.uk, skip-cert-verify: true}
-  - {name: 🇺🇸 US_9|3.0MB/s|GPT⁺|YT-US|NF|33%, server: 14ff4864-t4x400-tcjtj6-d70y.la.shifen.uk, port: 1743, type: hysteria2, password: 537d7098-fdbe-11ef-8ebc-f23c93141fad, auth: 537d7098-fdbe-11ef-8ebc-f23c93141fad, sni: 14ff4864-t4x400-tcjtj6-d70y.la.shifen.uk, skip-cert-verify: true}
-  - {name: 🇺🇸 US_10|1.3MB/s|GPT⁺|YT-US|NF|33%, server: ad87b9c7-t3b340-t3hjqp-b4pt.la.shifen.uk, port: 1743, type: hysteria2, password: be8cc8f6-0c6a-11f0-a5a3-f23c93141fad, auth: be8cc8f6-0c6a-11f0-a5a3-f23c93141fad, sni: ad87b9c7-t3b340-t3hjqp-b4pt.la.shifen.uk, skip-cert-verify: true}
-  - {name: 🇺🇸 US_4|5.4MB/s|GPT⁺|YT-US|NF|GM, server: 36.151.251.38, port: 38799, type: trojan, password: BxceQaOe, sni: t.me%252Fripaojiedian, skip-cert-verify: true}
-  - {name: 🇺🇸 US_16|2.0MB/s|GPT⁺|YT-US|NF|33%, server: fe1d6996-t4v9c0-tcl9of-5fdt.la.shifen.uk, port: 1743, type: hysteria2, password: 712bdc36-24be-11ee-be53-f23c9313b177, auth: 712bdc36-24be-11ee-be53-f23c9313b177, sni: fe1d6996-t4v9c0-tcl9of-5fdt.la.shifen.uk, skip-cert-verify: true}
-  - {name: 🇺🇸 US_21|1.6MB/s|GPT⁺|YT-US|NF|33%, server: ffe170b7-t4x400-tcl9of-5fdt.la.shifen.uk, port: 1743, type: hysteria2, password: 712bdc36-24be-11ee-be53-f23c9313b177, auth: 712bdc36-24be-11ee-be53-f23c9313b177, sni: ffe170b7-t4x400-tcl9of-5fdt.la.shifen.uk, skip-cert-verify: true}
-  - {name: 🇺🇸 US_3|1.0MB/s|GPT⁺|YT-US|NF|GM|64%, server: 104.21.25.72, port: 80, type: vmess, uuid: 49781696-b800-4478-8346-5c712c25a1fe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /krDmIhxwUWSuXZrfGUrNKbS9k, headers: {Host: ttghju.006660666.xyz}}}
-  - {name: 🇺🇸 US_1|2.7MB/s|GPT⁺|YT-US|NF|GM|64%, server: 185.184.68.158.sslip.io, port: 31945, type: hysteria2, password: 49781696-b800-4478-8346-5c712c25a1fe, auth: 49781696-b800-4478-8346-5c712c25a1fe, sni: 185.184.68.158.sslip.io, skip-cert-verify: true, obfs: salamander, obfs-password: YRyZqbojpLksQ1Vr09JJPmfP6ovQ}
-  - {name: 🇺🇸 US_22|6.6MB/s|GPT⁺|YT-US|NF|GM, server: 36.151.251.38, port: 25891, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: true}
-  - {name: 🇺🇸 US_7|3.2MB/s|GPT⁺|YT-US|NF|33%, server: 6e206c57-t3b340-tcj7b6-d70y.la.shifen.uk, port: 1743, type: hysteria2, password: 537d7098-fdbe-11ef-8ebc-f23c93141fad, auth: 537d7098-fdbe-11ef-8ebc-f23c93141fad, sni: 6e206c57-t3b340-tcj7b6-d70y.la.shifen.uk, skip-cert-verify: true}
-  - {name: US_5|3.3MB/s|GPT⁺|NF, server: 117.172.176.22, port: 4173, type: trojan, password: e4e262d453466988575c397a30562337, sni: www.nintendogames.net, skip-cert-verify: true}
-  - {name: 🇺🇸 US_2|1.1MB/s|GPT⁺|YT-US|NF|GM|64%, server: 172.67.174.152, port: 443, type: vmess, uuid: 49781696-b800-4478-8346-5c712c25a1fe, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: "", network: grpc, grpc-opts: {grpc-service-name: krDmIhxwUWSuXZKJYKjUrB1eAAqWm}}
-  - {name: 🇺🇸 US_23|1.1MB/s|GPT⁺|YT-US|NF|GM|64%, server: 172.67.174.152, port: 443, type: trojan, password: 49781696-b800-4478-8346-5c712c25a1fe, sni: ggbnhu.007770777.xyz, alpn: [h2], skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: oclez6piBKJYKjUrB1eAAqWm}}
+  - {name: 🇯🇵 hysteria2-JP-Lite-Ftls, server: 154.82.137.251, port: 27261, type: hysteria2, password: LpMHP8OPhQ, auth: LpMHP8OPhQ, sni: go.microsoft.com, skip-cert-verify: true}
+  - {name: 🇯🇵 vless-JP-Lite-reality, server: 154.82.137.251, port: 26897, type: vless, uuid: 7ff5417d-28d4-460b-8114-2e4bce77159e, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: true, reality-opts: {public-key: pO-t_IxgJHzl_xEibm4Hfz6qxn-nq0Lsj8qPV8GsgUo, short-id: "fc57be" }, servername: go.microsoft.com, client-fingerprint: chrome, network: tcp}
+  - {name: 🇯🇵 hysteria2-JP-Lite-Ftls 2, server: 2602:fa4f:a90:e441:8c10:9693:7be8:8f42, port: 27261, type: hysteria2, password: 1uzvnV2uHZ, auth: 1uzvnV2uHZ, sni: go.microsoft.com, skip-cert-verify: true}
+  - {name: 🇯🇵 vless-JP-Lite-reality 2, server: 2602:fa4f:a90:e441:8c10:9693:7be8:8f42, port: 26897, type: vless, uuid: ecc166e5-b3da-45e3-8cbe-4ff08d0e7442, tls: true, tfo: false, flow: xtls-rprx-vision, skip-cert-verify: true, reality-opts: {public-key: pO-t_IxgJHzl_xEibm4Hfz6qxn-nq0Lsj8qPV8GsgUo, short-id: "71" }, servername: go.microsoft.com, client-fingerprint: chrome, network: tcp}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - NL_1|1.1MB/s|50%
-      - 🇭🇰 HK_1|1.3MB/s|YT-HK|NF|D+|2%
-      - 🇸🇬 SG_1|2.3MB/s|GPT⁺|YT-SG|NF|GM
-      - 🇺🇸 US_20|1.7MB/s|GPT⁺|YT-US|NF|33%
-      - 🇺🇸 US_18|2.0MB/s|GPT⁺|YT-US|NF|33%
-      - 🇺🇸 US_19|2.2MB/s|GPT⁺|YT-US|NF|33%
-      - 🇺🇸 US_14|2.2MB/s|GPT⁺|YT-US|NF|33%
-      - 🇺🇸 US_8|3.2MB/s|GPT⁺|YT-US|NF|33%
-      - 🇺🇸 US_13|2.5MB/s|GPT⁺|YT-US|NF|33%
-      - 🇺🇸 US_17|2.2MB/s|GPT⁺|YT-US|NF|33%
-      - 🇺🇸 US_11|2.3MB/s|GPT⁺|YT-US|NF|33%
-      - 🇺🇸 US_6|3.8MB/s|GPT⁺|YT-US|NF|33%
-      - 🇺🇸 US_15|2.1MB/s|GPT⁺|YT-US|NF|33%
-      - 🇺🇸 US_12|2.3MB/s|GPT⁺|YT-US|NF|33%
-      - 🇺🇸 US_9|3.0MB/s|GPT⁺|YT-US|NF|33%
-      - 🇺🇸 US_10|1.3MB/s|GPT⁺|YT-US|NF|33%
-      - 🇺🇸 US_4|5.4MB/s|GPT⁺|YT-US|NF|GM
-      - 🇺🇸 US_16|2.0MB/s|GPT⁺|YT-US|NF|33%
-      - 🇺🇸 US_21|1.6MB/s|GPT⁺|YT-US|NF|33%
-      - 🇺🇸 US_3|1.0MB/s|GPT⁺|YT-US|NF|GM|64%
-      - 🇺🇸 US_1|2.7MB/s|GPT⁺|YT-US|NF|GM|64%
-      - 🇺🇸 US_22|6.6MB/s|GPT⁺|YT-US|NF|GM
-      - 🇺🇸 US_7|3.2MB/s|GPT⁺|YT-US|NF|33%
-      - US_5|3.3MB/s|GPT⁺|NF
-      - 🇺🇸 US_2|1.1MB/s|GPT⁺|YT-US|NF|GM|64%
-      - 🇺🇸 US_23|1.1MB/s|GPT⁺|YT-US|NF|GM|64%
+      - 🇯🇵 hysteria2-JP-Lite-Ftls
+      - 🇯🇵 vless-JP-Lite-reality
+      - 🇯🇵 hysteria2-JP-Lite-Ftls 2
+      - 🇯🇵 vless-JP-Lite-reality 2
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - NL_1|1.1MB/s|50%
-      - 🇭🇰 HK_1|1.3MB/s|YT-HK|NF|D+|2%
-      - 🇸🇬 SG_1|2.3MB/s|GPT⁺|YT-SG|NF|GM
-      - 🇺🇸 US_20|1.7MB/s|GPT⁺|YT-US|NF|33%
-      - 🇺🇸 US_18|2.0MB/s|GPT⁺|YT-US|NF|33%
-      - 🇺🇸 US_19|2.2MB/s|GPT⁺|YT-US|NF|33%
-      - 🇺🇸 US_14|2.2MB/s|GPT⁺|YT-US|NF|33%
-      - 🇺🇸 US_8|3.2MB/s|GPT⁺|YT-US|NF|33%
-      - 🇺🇸 US_13|2.5MB/s|GPT⁺|YT-US|NF|33%
-      - 🇺🇸 US_17|2.2MB/s|GPT⁺|YT-US|NF|33%
-      - 🇺🇸 US_11|2.3MB/s|GPT⁺|YT-US|NF|33%
-      - 🇺🇸 US_6|3.8MB/s|GPT⁺|YT-US|NF|33%
-      - 🇺🇸 US_15|2.1MB/s|GPT⁺|YT-US|NF|33%
-      - 🇺🇸 US_12|2.3MB/s|GPT⁺|YT-US|NF|33%
-      - 🇺🇸 US_9|3.0MB/s|GPT⁺|YT-US|NF|33%
-      - 🇺🇸 US_10|1.3MB/s|GPT⁺|YT-US|NF|33%
-      - 🇺🇸 US_4|5.4MB/s|GPT⁺|YT-US|NF|GM
-      - 🇺🇸 US_16|2.0MB/s|GPT⁺|YT-US|NF|33%
-      - 🇺🇸 US_21|1.6MB/s|GPT⁺|YT-US|NF|33%
-      - 🇺🇸 US_3|1.0MB/s|GPT⁺|YT-US|NF|GM|64%
-      - 🇺🇸 US_1|2.7MB/s|GPT⁺|YT-US|NF|GM|64%
-      - 🇺🇸 US_22|6.6MB/s|GPT⁺|YT-US|NF|GM
-      - 🇺🇸 US_7|3.2MB/s|GPT⁺|YT-US|NF|33%
-      - US_5|3.3MB/s|GPT⁺|NF
-      - 🇺🇸 US_2|1.1MB/s|GPT⁺|YT-US|NF|GM|64%
-      - 🇺🇸 US_23|1.1MB/s|GPT⁺|YT-US|NF|GM|64%
+      - 🇯🇵 hysteria2-JP-Lite-Ftls
+      - 🇯🇵 vless-JP-Lite-reality
+      - 🇯🇵 hysteria2-JP-Lite-Ftls 2
+      - 🇯🇵 vless-JP-Lite-reality 2
 rules:
   - DOMAIN-SUFFIX,xn--ngstr-lra8j.com,🚀 节点选择
   - DOMAIN-SUFFIX,services.googleapis.cn,🚀 节点选择
@@ -119,6 +53,7 @@ rules:
   - DOMAIN-SUFFIX,acl4.ssr,DIRECT
   - DOMAIN-SUFFIX,ip6-localhost,DIRECT
   - DOMAIN-SUFFIX,ip6-loopback,DIRECT
+  - DOMAIN-SUFFIX,internal,DIRECT
   - DOMAIN-SUFFIX,lan,DIRECT
   - DOMAIN-SUFFIX,local,DIRECT
   - DOMAIN-SUFFIX,localhost,DIRECT
@@ -126,6 +61,7 @@ rules:
   - IP-CIDR,10.0.0.0/8,DIRECT,no-resolve
   - IP-CIDR,100.64.0.0/10,DIRECT,no-resolve
   - IP-CIDR,127.0.0.0/8,DIRECT,no-resolve
+  - IP-CIDR,169.254.0.0/16,DIRECT,no-resolve
   - IP-CIDR,172.16.0.0/12,DIRECT,no-resolve
   - IP-CIDR,192.168.0.0/16,DIRECT,no-resolve
   - IP-CIDR,198.18.0.0/16,DIRECT,no-resolve
@@ -236,6 +172,7 @@ rules:
   - DOMAIN-SUFFIX,aliapp.org,DIRECT
   - DOMAIN-SUFFIX,alibaba.com,DIRECT
   - DOMAIN-SUFFIX,alibabacloud.com,DIRECT
+  - DOMAIN-SUFFIX,alibabachengdun.com,DIRECT
   - DOMAIN-SUFFIX,alibabausercontent.com,DIRECT
   - DOMAIN-SUFFIX,alicdn.com,DIRECT
   - DOMAIN-SUFFIX,alicloudccp.com,DIRECT
@@ -254,6 +191,7 @@ rules:
   - DOMAIN-SUFFIX,autonavi.com,DIRECT
   - DOMAIN-SUFFIX,dingtalk.com,DIRECT
   - DOMAIN-SUFFIX,ele.me,DIRECT
+  - DOMAIN-SUFFIX,elemecdn.com,DIRECT
   - DOMAIN-SUFFIX,hichina.com,DIRECT
   - DOMAIN-SUFFIX,mmstat.com,DIRECT
   - DOMAIN-SUFFIX,mxhichina.com,DIRECT
@@ -261,6 +199,7 @@ rules:
   - DOMAIN-SUFFIX,taobao.com,DIRECT
   - DOMAIN-SUFFIX,taobaocdn.com,DIRECT
   - DOMAIN-SUFFIX,tbcache.com,DIRECT
+  - DOMAIN-SUFFIX,tbcdn.cn,DIRECT
   - DOMAIN-SUFFIX,tbcdn.com,DIRECT
   - DOMAIN-SUFFIX,tmall.com,DIRECT
   - DOMAIN-SUFFIX,tmall.hk,DIRECT
@@ -590,6 +529,7 @@ rules:
   - DOMAIN-SUFFIX,air-matters.io,DIRECT
   - DOMAIN-SUFFIX,aixifan.com,DIRECT
   - DOMAIN-SUFFIX,algocasts.io,DIRECT
+  - DOMAIN-SUFFIX,asklink.com,DIRECT
   - DOMAIN-SUFFIX,babytree.com,DIRECT
   - DOMAIN-SUFFIX,babytreeimg.com,DIRECT
   - DOMAIN-SUFFIX,baicizhan.com,DIRECT
@@ -1167,7 +1107,6 @@ rules:
   - DOMAIN-SUFFIX,scupio.com,REJECT
   - DOMAIN-SUFFIX,shuiguo.com,REJECT
   - DOMAIN-SUFFIX,shuzilm.cn,REJECT
-  - DOMAIN-SUFFIX,similarweb.com,REJECT
   - DOMAIN-SUFFIX,sitemeter.com,REJECT
   - DOMAIN-SUFFIX,sitescout.com,REJECT
   - DOMAIN-SUFFIX,sitetag.us,REJECT
@@ -2019,9 +1958,7 @@ rules:
   - DOMAIN-SUFFIX,log.mix.sina.com.cn,REJECT
   - DOMAIN-SUFFIX,mobileads.dx.cn,REJECT
   - DOMAIN-SUFFIX,newspush.sinajs.cn,REJECT
-  - DOMAIN-SUFFIX,pay.mobile.sina.cn,REJECT
   - DOMAIN-SUFFIX,sax.mobile.sina.cn,REJECT
-  - DOMAIN-SUFFIX,sax.sina.com.cn,REJECT
   - DOMAIN-SUFFIX,saxd.sina.com.cn,REJECT
   - DOMAIN-SUFFIX,sdkapp.mobile.sina.cn,REJECT
   - DOMAIN-SUFFIX,sdkapp.uve.weibo.com,REJECT
@@ -2422,7 +2359,6 @@ rules:
   - DOMAIN-SUFFIX,dol.tianyaui.cn,REJECT
   - DOMAIN-SUFFIX,dw.xcar.com.cn,REJECT
   - DOMAIN-SUFFIX,e.nexac.com,REJECT
-  - DOMAIN-SUFFIX,eq.10jqka.com.cn,REJECT
   - DOMAIN-SUFFIX,exp.17wo.cn,REJECT
   - DOMAIN-SUFFIX,game.51yund.com,REJECT
   - DOMAIN-SUFFIX,ganjituiguang.ganji.com,REJECT
@@ -2439,7 +2375,6 @@ rules:
   - DOMAIN-SUFFIX,mobileads.msn.com,REJECT
   - DOMAIN-SUFFIX,n.cosbot.cn,REJECT
   - DOMAIN-SUFFIX,newton-api.ele.me,REJECT
-  - DOMAIN-SUFFIX,ozone.10jqka.com.cn,REJECT
   - DOMAIN-SUFFIX,pdl.gionee.com,REJECT
   - DOMAIN-SUFFIX,pica-juicy.picacomic.com,REJECT
   - DOMAIN-SUFFIX,pixel.wp.com,REJECT
@@ -2452,7 +2387,6 @@ rules:
   - DOMAIN-SUFFIX,res.gwifi.com.cn,REJECT
   - DOMAIN-SUFFIX,ssp.kssws.ks-cdn.com,REJECT
   - DOMAIN-SUFFIX,sta.ganji.com,REJECT
-  - DOMAIN-SUFFIX,stat.10jqka.com.cn,REJECT
   - DOMAIN-SUFFIX,stat.it168.com,REJECT
   - DOMAIN-SUFFIX,stats.chinaz.com,REJECT
   - DOMAIN-SUFFIX,stats.developingperspective.com,REJECT
@@ -2460,7 +2394,6 @@ rules:
   - DOMAIN-SUFFIX,tracker.yhd.com,REJECT
   - DOMAIN-SUFFIX,tralog.ganji.com,REJECT
   - DOMAIN-SUFFIX,up.qingdaonews.com,REJECT
-  - DOMAIN-SUFFIX,vaserviece.10jqka.com.cn,REJECT
   - IP-CIDR,8.128.0.0/10,DIRECT,no-resolve
   - IP-CIDR,8.209.32.0/22,DIRECT,no-resolve
   - IP-CIDR,8.209.40.0/21,DIRECT,no-resolve
